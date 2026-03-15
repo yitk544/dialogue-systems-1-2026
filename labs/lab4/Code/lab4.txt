@@ -1,0 +1,28 @@
+Reference performance:
+Li Bai – Quiet Night Thoughts (general classical poetry reading style)
+
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"2c5617a6-37b8-44dc-b4c0-ac73be78acf8","Name":"Microsoft Server Speech Text to Speech Voice (wuu-CN, YunzheNeural)","ShortName":"wuu-CN-YunzheNeural","Locale":"wuu-CN","VoiceType":"StandardVoice"}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{"Files":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"de-DE":{"AutoApplyCustomLexiconFiles":[{}]},"zh-CN":{"AutoApplyCustomLexiconFiles":[{}]},"wuu-CN":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="wuu-CN"><voice name="wuu-CN-YunzheNeural"><mstts:express-as style="narration-professional" styledegree="1.3"><prosody rate="-12%" pitch="+1%">Quiet Night Thoughts
+<break time="400ms" />
+Li Bai</prosody>
+<break time="700ms" />
+<prosody rate="-10%" pitch="-1%">Before my bed
+<break time="180ms" />
+the bright moonlight glitters,</prosody>
+<break time="450ms" />
+<prosody rate="-8%" pitch="+1%">Like frost upon the ground.</prosody>
+<break time="500ms" />
+<prosody rate="-9%" pitch="+3%">I lift my head
+<break time="150ms" />
+and watch the
+<emphasis level="moderate">bright moon</emphasis>,</prosody>
+<break time="500ms" />
+<prosody rate="-13%" pitch="-2%">I lower my head
+<break time="180ms" />
+and dream of
+<emphasis level="moderate">home</emphasis>.
+</prosody>
+</mstts:express-as>
+</voice></speak>
